@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Filippo Baldini</h1>
 <h3 align="center">Computer Science student at University of Genoa</h3>
 
-- 🌱 I’m currently learning **C++, Java**
+- 📚 I’m currently learning **C++, Java**
 
-- 📫 How to reach me **baldinifilippo4.commercial@gmail.com**
+- 📩 How to reach me **baldinifilippo4.commercial@gmail.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/filippo-baldini](http://linkedin.com/in/filippo-baldini)
+- 📄 Know about my experiences [CV](http://linkedin.com/in/filippo-baldini)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
