@@ -3,7 +3,10 @@
 
 - 📚 I’m currently learning **C++, Java**
 
-- 📩 How to reach me **baldinifilippo4.commercial@gmail.com**
+<details>
+  <summary><strong>- 📩 How to reach me: email</strong></summary>
+  <p>baldinifilippo4.commercial@gmail.com</p>
+</details>
 
 - 📄 Know about my experiences [CV](http://linkedin.com/in/filippo-baldini)
 
