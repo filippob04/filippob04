@@ -5,7 +5,7 @@
 
 - 📩 How to reach me: [email](mailto:baldinifilippo4.commercial@gmail.com)
 
-- 📄 Know about my experiences [CV](http://linkedin.com/in/filippo-baldini)
+- 📄 Know about my experiences [CV](https://profile.indeed.com/p/filippob-r2plh29)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
