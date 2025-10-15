@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filippo Baldini</h1>
 <h3 align="center">Computer Science student at University of Genoa</h3>
 
-- 📚 I’m currently learning **C++, Java, JavaScript**
+- 📚 I’m currently learning **C++, Java, Python**
 
 - 📩 How to reach me: [email](mailto:baldinifilippo4.commercial@gmail.com)
 
