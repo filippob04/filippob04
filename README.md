@@ -31,4 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vsCode" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=filippob04&show_icons=true&theme=dracula&locale=en&layout=compact)](https://github.com/filippob04)
+<p align="left">
+  <a href="https://github.com/filippob04">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filippob04&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="stats" />
+  </a>
+</p>
