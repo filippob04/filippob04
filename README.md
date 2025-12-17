@@ -30,3 +30,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vsCode" width="40" height="40"/>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippob04&show_icons=true&theme=dracula&locale=en&layout=compact" alt="andreavmc" /></p>
